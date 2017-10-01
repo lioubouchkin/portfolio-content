@@ -1,0 +1,58 @@
+localhost wamp:
+user: pavel
+pass: 2611naWMP
+
+localhost wordpress:	http://localhost/wordpress/wp-login.php
+user: lioubouchkin
+pass: 2611naWRD
+
+http://itinet.fr/publication/
+http://195.154.82.81	-> http://itinet.fr
+http://www.itinet.fr/phpmyadmin/
+http://itinet.fr/lioubouchkinpavel
+user: 	
+pw:		
+
+upload wordpress from localhost to host server
+http://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/
+
+delete default themes
+https://bavotasan.com/2015/permanently-delete-default-wordpress-themes/
+
+choose font style:
+http://wordmark.it/
+Aldhabi
+Adobe Arabic		*
+Microsoft NeoGothic		*
+Microsoft Sans Serif	*
+Miriam		*
+Myanmar Text	*
+Myriad Hebrew	*
+Newton Phonetic ABBYY	*
+Segoe UI Symbol		*
+Segoe WP SemiLight	*
+
+########################################################
+########################################################
+	Includes CSS JS into pages:
+https://developer.wordpress.org/themes/basics/including-css-javascript/
+
+wordpress\wp-content\themes\pique\functions.php
+add to function pique_scripts() CSS styles and JavaScripts
+
+	Собственные скрипты js :
+wordpress\wp-content\themes\pique\assets\js
+########################################################
+########################################################
+########################################################
+########################################################
+########################################################
+########################################################
+########################################################
+########################################################
+########################################################
+########################################################
+########################################################
+########################################################
+########################################################
+########################################################
