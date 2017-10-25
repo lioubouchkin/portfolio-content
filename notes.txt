@@ -6,12 +6,20 @@ localhost wordpress:	http://localhost/wordpress/wp-login.php
 user: lioubouchkin
 pass: 2611naWRD
 
+	Projet sur https://www.000webhost.com/
+projet:		lioubouchkinpavel
+login:		lioubouchkin
+email:		orange
+mdp:		2611naWBH
+
+	site sur: 
+https://lioubouchkinpavel.000webhostapp.com/
+https://lioubouchkinpavel.000webhostapp.com/wp-login.php
+2611naWRD
+
 http://itinet.fr/publication/
 http://195.154.82.81	-> http://itinet.fr
-http://www.itinet.fr/phpmyadmin/
-http://itinet.fr/lioubouchkinpavel
-user: 	
-pw:		
+	
 
 upload wordpress from localhost to host server
 http://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/
@@ -42,6 +50,9 @@ add to function pique_scripts() CSS styles and JavaScripts
 
 	Собственные скрипты js :
 wordpress\wp-content\themes\pique\assets\js
+
+	CSS :
+C:\wamp64\www\wordpress\wp-content\themes\pique\style.css
 ########################################################
 ########################################################
 ########################################################
