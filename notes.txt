@@ -12,33 +12,35 @@ login:		lioubouchkin
 email:		orange
 mdp:		2611naWBH
 
+	Projet sur https://www.000webhost.com/
+projet:		lioubouchkinpavel
+login:		lioubouchkin   или   rabo4i79@orange.fr
+email:		orange
+mdp:		2611naWBH
+
 	site sur: 
 https://lioubouchkinpavel.000webhostapp.com/
 https://lioubouchkinpavel.000webhostapp.com/wp-login.php
+rabo4i79@orange.fr
 2611naWRD
+
+	FTP details:
+Host Name:		files.000webhost.com
+Username:		lioubouchkinpavel	
+Password:		same as your website password
 
 http://itinet.fr/publication/
 http://195.154.82.81	-> http://itinet.fr
 	
 
-upload wordpress from localhost to host server
+	upload wordpress from localhost to host server
 http://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/
 
-delete default themes
+	delete default themes
 https://bavotasan.com/2015/permanently-delete-default-wordpress-themes/
 
-choose font style:
-http://wordmark.it/
-Aldhabi
-Adobe Arabic		*
-Microsoft NeoGothic		*
-Microsoft Sans Serif	*
-Miriam		*
-Myanmar Text	*
-Myriad Hebrew	*
-Newton Phonetic ABBYY	*
-Segoe UI Symbol		*
-Segoe WP SemiLight	*
+	Free images:
+https://en.99designs.fr/blog/resources/public-domain-image-resources/
 
 ########################################################
 ########################################################
@@ -56,6 +58,14 @@ C:\wamp64\www\wordpress\wp-content\themes\pique\style.css
 ########################################################
 ########################################################
 ########################################################
+https://www.google.fr/search?client=firefox-b&dcr=0&ei=H5L4WcvNE8y1aYWngcAK&q=portfolio+ing%C3%A9nieur+logiciel&oq=portfolio+ing%C3%A9nieur+logiciel&gs_l=psy-ab.3...342856.344915.0.345104.10.10.0.0.0.0.118.924.3j6.9.0....0...1.1.64.psy-ab..1.2.225...35i39k1j0i7i30k1j0i13k1j0i8i7i30k1j0i13i30k1j0i19k1.0.TOGTNwaBCmc
+http://www.geektoolbox.fr/julien-verney-portfolio/
+http://www.christophe-bougere.fr/
+https://konstantin-sidorenko.fr/#accueil
+http://pierre-michel.fr/
+http://nicolab.net/
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 ########################################################
 ########################################################
 ########################################################
