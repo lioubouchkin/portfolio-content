@@ -28,9 +28,6 @@ rabo4i79@orange.fr
 Host Name:		files.000webhost.com
 Username:		lioubouchkinpavel	
 Password:		same as your website password
-
-http://itinet.fr/publication/
-http://195.154.82.81	-> http://itinet.fr
 	
 
 	upload wordpress from localhost to host server
